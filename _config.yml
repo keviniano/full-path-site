@@ -21,13 +21,31 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fullpath.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  keviniano
 locale: en-US
-permalink: /blog/:year/:title/
+permalink: /blog/:year/:month/:title/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-mermaid
+
+mermaid:
+  src: 'https://unpkg.com/mermaid@7.1.0/dist/mermaid.js'
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
