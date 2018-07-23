@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Full Path
+name: Full Path LLC
 email: info@fullpath.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Site dedicated to transit and transportation technology, with focus on community-based transportation, demand-response transportation, and human services transportation.
+  Site dedicated to transit and transportation technology, with focus on community transit, demand-response transportation, human services transportation, and mobility as healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fullpath.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  keviniano
@@ -25,13 +26,14 @@ permalink: /blog/:year/:month/:title/
 
 defaults:
   # _posts
-  - scope:
+  -
+    scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
