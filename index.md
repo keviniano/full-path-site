@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/hero.jpg
 excerpt: "Wholistic Thinking and Tools for Community Transportation"
 feature_row:
-  - image_path: /assets/images/chuttersnap-324669-unsplash.jpg
+  - image_path: /assets/images/aaron-burden-151465-unsplash.jpg
     alt: "placeholder image 2"
     title: "It's Time for Technology to Better Serve Small Transit."
     excerpt: 'We Can Help.'
