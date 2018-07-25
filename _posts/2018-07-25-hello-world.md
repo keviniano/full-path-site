@@ -10,7 +10,7 @@ related: false
 ---
 ## Hello World!
 
-It's with great pleasure that I present Full Path Transit Technology, my new consultancy dedicated to serving the needs of community transit[^1]. I created it with the goal of providing thinking and tools around technology that respond to the current moment the industry is in.
+It is with great pleasure that I present Full Path Transit Technology, my new consultancy dedicated to serving the needs of community transit[^1]. I created it with the goal of providing thinking and tools around technology that respond to the current moment the industry is in.
 
 And what an interesting moment it is. Until a few years ago community transit was a sleepy and staid niche in the transportation sector, below radar even within many transit circles. Now that flexible transportation options are front and center in so many transportation and urban planning conversations, community transportation providers are confronted with a striking set of opportunities and crises.
 
