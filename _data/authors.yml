@@ -1,5 +1,8 @@
 Kevin Chambers:
-  name: "Kevin Chambers"
-  bio: "Founder of Full Path"
-  avatar: "/assets/images/bio-photo-2.jpg"
-  twitter: "keviniano"
+  name:       Kevin Chambers
+  bio:        Founder of Full Path
+  avatar:     /assets/images/kc_avatar.jpg
+  twitter:    keviniano
+  linkedin:   keviniano
+  github:     keviniano
+  location:   Portland, OR, USA

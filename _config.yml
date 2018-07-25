@@ -27,14 +27,7 @@ locale: en-US
 permalink: /blog/:year/:month/:title/
 
 og_image: /android-chrome-256x256.png
-
-author:
-  name: "Kevin Chambers"
-  bio: "Founder of Full Path"
-  avatar: "/assets/images/kc_avatar.jpg"
-  twitter: "keviniano"
-  linkedin: "keviniano"
-  location: Portland, OR
+author: Kevin Chambers
 
 defaults:
   # _posts
@@ -47,7 +40,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
-      share: true
+      share: false
       related: true
 
 # Build settings
