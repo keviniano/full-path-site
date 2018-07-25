@@ -28,6 +28,8 @@ permalink: /blog/:year/:month/:title/
 
 og_image: /android-chrome-256x256.png
 author: Kevin Chambers
+twitter:
+  username: fullpathtransit
 
 defaults:
   # _posts

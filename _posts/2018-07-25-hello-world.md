@@ -1,5 +1,7 @@
 ---
-title:   "Introducing Full Path Transit Technology"
+title:   Introducing Full Path Transit Technology
+description: Wherein I present my new consultancy to the world, dedicated to serving the needs of community transit.
+author: Kevin Chambers
 date:    2018-07-25
 header:
   image: /assets/images/hello_world_hero.jpg
