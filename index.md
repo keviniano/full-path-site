@@ -18,7 +18,7 @@ feature_row:
 
 {% include feature_row id="feature_row" type="left" %}
 
-# Recent News
+# Recent Articles
 {% for post in site.posts limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
