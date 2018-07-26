@@ -31,6 +31,11 @@ author: Kevin Chambers
 twitter:
   username: fullpathtransit
 
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: UA-112157492-1
+
 defaults:
   # _posts
   -
