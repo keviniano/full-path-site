@@ -11,8 +11,8 @@ feature_row:
     alt: "placeholder image 2"
     title: "It's Time for Technology to Better Serve Small Transit."
     excerpt: 'We Can Help.'
-    url: "about/"
-    btn_label: "About Full Path"
+    url: "services/"
+    btn_label: "Here's How"
     btn_class: "btn--primary"
 ---
 
