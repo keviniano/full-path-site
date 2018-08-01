@@ -1,8 +1,8 @@
 main:
-  - title: Blog
-    url: /blog/
   - title: Services
     url: /services/
+  - title: Blog
+    url: /blog/
   - title: About
     url: /about/
   - title: Contact
