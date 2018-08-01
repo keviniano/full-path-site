@@ -1,10 +1,9 @@
 ---
 layout: single
 title: About Full Path
-classes: wide
 ---
 
-Full Path LLC is a consulting and technology services firm based in Portland, Oregon and led by Kevin Chambers. Our focus is on transit technology at the edges. Examples include demand-responsive, human services, rural, and community-based transportation.
+Full Path LLC is a consulting and technology services firm based in Portland, Oregon and led by Kevin Chambers. Our focus is on community-based transportation. Examples include demand-responsive, human services, and rural transit.
 
 ![image-right]({{ "assets/images/kc_headshot.jpg" | relative_url }}){: .align-right style="border-radius: 4px"}
 
