@@ -4,8 +4,6 @@ description:  In which I present my new consultancy, dedicated to serving the ne
 excerpt:      In which I present my new consultancy, dedicated to serving the needs of community transit, to the world.
 author:       Kevin Chambers
 date:         2018-07-25
-toc:          true
-toc_sticky:   true
 header:
   image:      /assets/images/hello_world_hero.jpg
 related:      false
@@ -27,7 +25,7 @@ Most community transit providers do not have even the privilege of reacting. Cas
 It's in this context that Full Path jumps into the fray, taking a opinionated stance rooted in years of successes and failures putting technology into the hands of small organizations. Here is a quick take on how we think about responding to the challenges ahead.
 
 ### Technology In Its Place
-We believe in _appropriate technology_. The term is actually the name of a [movement](https://en.wikipedia.org/wiki/Appropriate_technology "Wikipedia definition") in economic development circles, but I don't mean it in the sense of a creating a new water pump design or a better mosquito net. Rather, we embrace its broader philosophical approach to creating technological tools — the focus on simplicity, decentralization, sustainability, and empowerment of the people using the technology.
+We believe in _appropriate technology_. The term comes from a [movement](https://en.wikipedia.org/wiki/Appropriate_technology "Wikipedia definition") in economic development circles, but I don't mean it in the sense of a creating a new water pump design or a better mosquito net. Rather, we embrace its broader philosophical approach to creating technological tools — the focus on simplicity, decentralization, sustainability, and empowerment of the people using the technology.
 
 In a society where technology is held out as panacea, it's valuable for mission-based organizations to work with the support of philosophies that provide a vision for applying tech only where it makes sense and can be sustained over time.
 
