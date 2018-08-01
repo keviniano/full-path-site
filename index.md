@@ -12,7 +12,7 @@ feature_row:
     title: "It's Time for Technology to Better Serve Small Transit."
     excerpt: 'We can help you find your way.'
     url: "services/"
-    btn_label: "What we do"
+    btn_label: "Learn about what we do"
     btn_class: "btn--primary"
 ---
 

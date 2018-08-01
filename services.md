@@ -8,8 +8,10 @@ header:
   overlay_image:  /assets/images/services_hero.jpg
 ---
 
+At Full Path, our focus is on getting the most appropriate technology into the hands of [community transit]({{"blog/2018/08/hello-world#fn:1" | relative_url }}), in all the forms that can take. Here's what we do:
+
 ## Consulting
-Based on our deep knowledge of community transit, we can give you a hand with your transit technology needs, no matter where you are in your process. Services include:
+Based on our deep knowledge of the community transit field, we can give you a hand with your transit technology needs, no matter where you are in your process. Services include:
 * Strategic planning
 * Needs assessment
 * Research and evaluation
