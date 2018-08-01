@@ -24,7 +24,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fullpath.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  keviniano
 locale: en-US
-permalink: /blog/:year/:month/:title/
+permalink: /blog/:year/:month/:title
 
 og_image: /android-chrome-256x256.png
 author: Kevin Chambers
@@ -45,10 +45,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: true
+      read_time: true
+      comments: false
       share: false
-      related: true
+      related: false
 
 # Build settings
 markdown: kramdown

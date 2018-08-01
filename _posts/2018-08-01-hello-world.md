@@ -6,9 +6,8 @@ author:       Kevin Chambers
 date:         2018-08-01
 header:
   image:      /assets/images/hello_world_hero.jpg
-related:      false
-
 ---
+
 ## Hello World!
 
 It is with great pleasure that I present Full Path Transit Technology, my new consultancy dedicated to serving the needs of community transit[^1]. I created it with the goal of providing thinking and tools around technology that respond to the current moment the industry is in.
