@@ -3,7 +3,7 @@ title:        Introducing Full Path Transit Technology
 description:  In which I present my new consultancy, dedicated to serving the needs of community transit, to the world.
 excerpt:      In which I present my new consultancy, dedicated to serving the needs of community transit, to the world.
 author:       Kevin Chambers
-date:         2018-07-25
+date:         2018-08-01
 header:
   image:      /assets/images/hello_world_hero.jpg
 related:      false

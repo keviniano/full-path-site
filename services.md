@@ -23,4 +23,4 @@ We've been pivotal in the development of a range of open technology tools that s
 * [RidePilot](https://github.com/camsys/ridepilot "The current active fork of RidePilot"), a lean scheduling and dispatching system designed for a network of small providers.
 * [The Clearinghouse](https://github.com/rideconnection/clearinghouse "The demand-responsive transportation clearinghouse"), a proof of concept system to integrate the operations of independent demand-responsive transportation providers.
 
-You can learn more about our approach by reading our [first post]({% link _posts/2018-07-25-hello-world.md %}).
+You can learn more about our approach by reading our [first post]({% post_url 2018-08-01-hello-world %}).

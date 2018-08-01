@@ -16,4 +16,4 @@ In work that ranges from software development to project management and strategi
 * We believe that effective transit is essential to healthy and productive communities.
 * While it can play a key role in making transit service efficient and attractive to users, technology doesn't solve complex problems. People do that. Community needs should always lead.
 
-You can learn more about our approach by reading our [first post]({% link _posts/2018-07-25-hello-world.md %}).
+You can learn more about our approach by reading our [first post]({% post_url 2018-08-01-hello-world %}).
