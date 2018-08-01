@@ -10,9 +10,9 @@ feature_row:
   - image_path: /assets/images/aaron-burden-151465-unsplash.jpg
     alt: "placeholder image 2"
     title: "It's Time for Technology to Better Serve Small Transit."
-    excerpt: 'We Can Help.'
+    excerpt: 'We can help you find your way.'
     url: "services/"
-    btn_label: "Here's How"
+    btn_label: "What we do"
     btn_class: "btn--primary"
 ---
 
