@@ -13,6 +13,7 @@ At Full Path, our focus is on getting the most appropriate technology into the h
 ## Consulting
 Based on our deep knowledge of the community transit field, we can give you a hand with your transit technology needs, no matter where you are in your process. Services include:
 * Strategic planning
+* Policy development
 * Needs assessment
 * Research and evaluation
 * Procurement support
