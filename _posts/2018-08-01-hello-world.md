@@ -21,7 +21,7 @@ The crises stem largely from the fact that this is not change that the transit i
 Most community transit providers do not have even the privilege of reacting. Cash-poor, even by transit standards, they have few resources to retool. Even if they did, the current ambient level of hype makes it unclear how to proceed. Which technologies are truly relevant to a provider serving marginalized populations? Will an app really help? How can agencies engage with the sea changes surrounding them while providing service in a fair and equitable fashion? The questions are many, daunting, and increasingly urgent as the divide between public expectations and agency capacity grows.
 
 ## The Full Path Approach
-It's in this context that Full Path jumps into the fray, taking a opinionated stance rooted in years of successes and failures putting technology into the hands of small organizations. Here is a quick take on how we think about responding to the challenges ahead.
+It's in this context that Full Path jumps into the fray, taking an opinionated stance rooted in years of successes and failures putting technology into the hands of small organizations. Here is a quick take on how we think about responding to the challenges ahead.
 
 ### Technology In Its Place
 We believe in _appropriate technology_. The term comes from a [movement](https://en.wikipedia.org/wiki/Appropriate_technology "Wikipedia definition") in economic development circles, but I don't mean it in the sense of a creating a new water pump design or a better mosquito net. Rather, we embrace its broader philosophical approach to creating technological tools — the focus on simplicity, decentralization, sustainability, and empowerment of the people using the technology.
