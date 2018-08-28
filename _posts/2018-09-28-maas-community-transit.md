@@ -1,12 +1,12 @@
 ---
-title:        "Mobility as a Service and Community Transit — Part 1: a MaaS Primer"
-description:  How can community transit adapt to the new landscape?
-excerpt:      How can community transit adapt to the new landscape?
+title:        "A MaaS Primer"
+description:  A primer for mobility as a service for those in community transit
+excerpt:      A primer for mobility as a service for those in community transit
 author:       Kevin Chambers
-date:         2018-08-20
-published:    false
+date:         2018-08-28
+published:    true
 header:
-  image:      /assets/images/hello_world_hero.jpg
+  image:      /assets/images/maas_primer_hero.jpg
 ---
 
 This article is intended to explain mobility as a service (MaaS) to the reader who has a background in community transit and hasn't yet had a chance to get their arms around what this new jargon term is all about.[^1] As with many terms coined to describe evolving concepts, it can be challenging to pin down what we're talking about. To achieve a level of brevity, I'll describe the industry consensus as I've seen it, tinged by my opinions on what MaaS _ought_ to be from a community welfare standpoint, independent of any particular company's business model.
