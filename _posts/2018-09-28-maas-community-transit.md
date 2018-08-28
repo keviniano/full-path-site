@@ -1,5 +1,5 @@
 ---
-title:        "A MaaS Primer"
+title:        "A MaaS Primer for Community Transit"
 description:  A primer for mobility as a service for those in community transit
 excerpt:      A primer for mobility as a service for those in community transit
 author:       Kevin Chambers
