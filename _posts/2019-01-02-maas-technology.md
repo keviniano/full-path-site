@@ -1,7 +1,7 @@
 ---
 title:        Platform Rants
-description:  Technology Implications of MaaS for Transit
-excerpt:      Technology Implications of MaaS for Transit
+description:  What will it take to bring community transit into the platform age?
+excerpt:      What will it take to bring community transit into the platform age?
 author:       Kevin Chambers
 date:         2019-01-02
 published:    true
