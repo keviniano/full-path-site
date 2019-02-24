@@ -11,15 +11,15 @@ header:
 At Full Path, our focus is on getting the most appropriate technology into the hands of [community transit]({{"blog/2018/08/hello-world#fn:1" | relative_url }}), in all the forms that can take. Here's what we do:
 
 ## Consulting
-Based on our deep knowledge of the community transit field, we can give you a hand with your transit technology needs, no matter where you are in your process. Services include:
-* Strategic planning
-* Policy development
-* Needs assessment
-* Research and evaluation
-* Procurement support
-* Implementation support
-* Project management
+Based on our deep knowledge of the community transit field, we can give you a hand with your transit technology needs, no matter where you are in your process. Services are aimed at reducing risk, maximizing the investment of public resources, and expanding the capacity of agencies to provide transportation options to the public. Services include:
 * Training
+* Needs assessment
+* Research and vendor landscape surveys
+* RFP requirements support
+* Identification and designing of opportunities for multi-agency solutions
+* Implementation support
+* Coordination of multi-agency technology efforts
+* Maintenance and business continuity planning
 
 ## Software Development and Implementation of Technology Tools
 We've been pivotal in the development of a range of open technology tools that support small transit. Examples include:
