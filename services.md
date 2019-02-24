@@ -15,7 +15,7 @@ Based on our deep knowledge of the community transit field, we can give you a ha
 * Training
 * Needs assessment
 * Research and vendor landscape surveys
-* RFP requirements support
+* RFP development support
 * Identification and designing of opportunities for multi-agency solutions
 * Implementation support
 * Coordination of multi-agency technology efforts
