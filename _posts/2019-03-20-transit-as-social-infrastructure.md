@@ -1,6 +1,8 @@
 ---
 description:  Transit is about more than just access and mobility.
 excerpt:      Transit is about more than just access and mobility.
+header:
+  image:      /assets/images/social-infrastructure-hero.jpg
 ---
 This post is inspired by a wonderful [99 Percent Invisible](https://99pi.org) [podcast episode](https://99percentinvisible.org/episode/palaces-for-the-people/) where Roman Mars interviews sociologist [Eric Klinenberg](https://www.ericklinenberg.com). I love the term "social infrastructure" coined by Eric and his exploration of libraries as crucial and adaptive elements of the social fabric.
 
