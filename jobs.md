@@ -60,9 +60,9 @@ This is an hourly position that will vary between 25 and 35 hours per week, with
 
 ### Flexible Hours/Remote Work
 Full Path supports a very flexible work environment and all staff work remotely. In the future when it is safe to do so it is possible that the person in this position may attend in-person meetings, trainings, or conferences. Timing of work hours may vary as long as you attend meetings and are generally available to other staff members during reasonable hours.
+
 We are happy to accommodate folks with scheduling needs such as students with part-time or evening classes or parents with childcare needs.
 
 ### To Apply
 
 Please send a cover letter and resume as PDF attachments to jobs[at]fullpath.io. 
-
