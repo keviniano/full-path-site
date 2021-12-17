@@ -56,7 +56,7 @@ Full Path values diversity and an inclusive work environment. We welcome applica
 
 ### Compensation
 
-This is an hourly position that will vary between 25 and 35 hours per week, with compensation ranging from $30 to $40 per hour depending on educational attainment and professional experience. We offer paid time off that is available after 90 days of employment and accrues at 1 hour per 30 hours worked, up to 40 hours per year. Full Path is in the process of researching and implementing additional benefits.
+This is an hourly position that will vary between 25 and 35 hours per week, with compensation ranging from $30 to $40 per hour depending on educational attainment and professional experience. We offer paid time off that is available after 90 days of employment and accrues at 1 hour per 15 hours worked, up to 120 hours per year. Full Path is in the process of researching and implementing additional benefits.
 
 ### Flexible Hours/Remote Work
 Full Path supports a very flexible work environment and all staff work remotely. In the future when it is safe to do so it is possible that the person in this position may attend in-person meetings, trainings, or conferences. Timing of work hours may vary as long as you attend meetings and are generally available to other staff members during reasonable hours.
